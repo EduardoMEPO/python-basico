@@ -2,3 +2,4 @@
 
 - Estado del proyecto: En desarrollo.
 - Ejercicios: 10.
+- Clase: 1.
