@@ -8,8 +8,8 @@ letras_minusculas = "abcdefghijklmnñopqrstuvwxyz"
 letras_mayusculas = "ABCDEFGHIJKLMNOPQRSTUVXWYZ"
 # Comprobar si es mayúscula o minúscula
 if letra in letras_mayusculas:
-    print(f"La letra {letra} esta en mayúscula.")
+    print(f"La letra {letra} esta en mayúscula")
 elif letra in letras_minusculas:
-    print(f"La letra {letra} esta en minúsculas.")
+    print(f"La letra {letra} esta en minúsculas")
 else:
-    print("¡Usted no ingreso una letra.")
+    print("¡Usted no ingreso una letra")
