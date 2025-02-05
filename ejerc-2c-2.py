@@ -24,14 +24,14 @@ if edad >= 18 and sueldo > 1000:
     sueldo_anual = sueldo * 12
     # Verificar Tipo de Impositivo
     if sueldo_anual < 15000:
-        print("Impositivo del 5%")
+        print("Impositivo del 5%.")
     elif sueldo_anual >= 15000 and sueldo_anual < 25000:
-        print("Impositivo del 15%")
+        print("Impositivo del 15%.")
     elif sueldo_anual >= 25000 and sueldo_anual < 35000:
-        print("Impositivo del 20%")
+        print("Impositivo del 20%.")
     elif sueldo_anual >= 35000 and sueldo_anual <= 60000:
-        print("Impositivo del 30%")
+        print("Impositivo del 30%.")
     else:
-        print("Impositivo del 45%")
+        print("Impositivo del 45%.")
 else:
     print("No cumple con uno o los dos requisitos.")
