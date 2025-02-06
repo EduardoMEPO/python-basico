@@ -1,4 +1,5 @@
 ''' 
+PALABRAS PROHIBIDAS:
 Define una lista de 5 palabras aleatorias 
 y una lista de letras prohibidas que contenga 
 tres letras. Filtra las palabras en tu lista original
